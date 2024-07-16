@@ -31,6 +31,8 @@ A custom engine that displays and manipulates objects in a virtual space. The en
 
 **Description:** Renders a 3D plane that can be manipulated at points and diffusely shaded based on point position. The user can also modify the position, size, and rotation of the planes texture. Lastly the resolution slider increases/decreases the amount of points on the given plane. Moving the slider after making adjustments resets the plane back to a flat horizontal position.  The menu in the top left hand corner allows the user to switch to a cylinder and make the same adjustments to the objects points.
 
+![image](https://github.com/user-attachments/assets/635ef63d-5d55-41af-85ce-4b5cee5886c6)
+
 
 **Game Engine Editor (Group Project):**
 
