@@ -10,11 +10,17 @@ C++, OpenGL Shading Language (GLSL)
 
 **API's:**
 OpenGL - Graphics Backend
+
 GLFW - Keyboard and mouse input 
+
 GLM - Matrix  Calculation
+
 stb_image - Image/texture loading
+
 FreeType - Font processing
+
 SoLoud - Sound backend
+
 ReactPhysics3D - Collision and physics simulation
 
 **Description:**
