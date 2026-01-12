@@ -1,6 +1,8 @@
 # Portfolio
 A portfolio showcasing multiple projects created in multiple programming languages. (C++, C#, Java).
 
+# **Cloud Computing Sudoku Puzzle Solver**
+
 **Programming Languages:**
 Java
 
@@ -44,7 +46,7 @@ A custom engine that displays and manipulates objects in a virtual space. The en
 
 # **Unity 3D Mesh Manipulation, Shading, and Lighting:**
 
-**Languages:** C#
+**Programming Languages:** C#
 
 **API:** Unity Engine
 
