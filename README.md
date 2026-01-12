@@ -1,7 +1,5 @@
 # Portfolio
-A portfolio showcasing multiple projects created in multiple programming languages. (C++, C#, JavaScript).
-
-**Portfolio Website:** https://sites.google.com/view/nathansshowcase/home
+A portfolio showcasing multiple projects created in multiple programming languages. (C++, C#, Java).
 
 **Custom 2D/3D Graphics Engine:**
 
@@ -41,16 +39,5 @@ A custom engine that displays and manipulates objects in a virtual space. The en
 ![image](https://github.com/user-attachments/assets/635ef63d-5d55-41af-85ce-4b5cee5886c6)
 ![image](https://github.com/user-attachments/assets/12818008-2842-48a7-8452-1cbb8ea6e4ec)
 
-
-**Game Engine Editor (Group Project):**
-
-**Languages:** JavaScript, HTML
-
-**API:** WebGL
-
-**Description:** A 2D game engine that allows the user to make changes to game objects and then save those changes to be later loaded back into the engine. Only the position or size of the squares can be adjusted within the game space. After one is done editing the scene, the save button is pressed to save the file to a local hard drive. If the user wants to load a saved scene, a properly formatted JSON file must be selected locally before pressing the load button. Loading a scene will reset any objects currently on screen to the state of loaded scene.
-
-The project uses WebGL for the graphics API and coded in JavaScript. Saved scenes are exported in JSON format and must keep the specified format when downloaded on to a local drive.
-
-![image](https://github.com/user-attachments/assets/ec9eb6c4-068b-4ef9-a158-c9977596f6ec)
-
+#**More Links:**
+**Portfolio Website:** https://sites.google.com/view/nathansshowcase/home
