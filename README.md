@@ -1,7 +1,21 @@
 # Portfolio
 A portfolio showcasing multiple projects created in multiple programming languages. (C++, C#, Java).
 
-**Custom 2D/3D Graphics Engine:**
+**Programming Languages:**
+Java
+
+**API's:** 
+MASS
+
+**Description:**
+This project showcases a parallel computing approach to solving a large collection of Sudoku puzzles. The solution is implemented in Java using the MASS API and runs across multiple computers, with a maximum of four computing nodes executing concurrently.
+
+**GitHub Project Link:**
+https://github.com/funkeymonkey10/CloudComputingSudokuSolver
+
+<img width="1400" height="1126" alt="image" src="https://github.com/user-attachments/assets/45a8203f-efaf-4a8c-9ee7-22e4fa4fe2b0" />
+
+# **Custom 2D/3D Graphics Engine:**
 
 **Programming Languages:** 
 C++, OpenGL Shading Language (GLSL)
@@ -28,7 +42,7 @@ A custom engine that displays and manipulates objects in a virtual space. The en
 ![image](https://github.com/user-attachments/assets/0acb54ce-8f41-416a-8ef1-cdcdb44d5c89)
 
 
-**Unity 3D Mesh Manipulation, Shading, and Lighting:**
+# **Unity 3D Mesh Manipulation, Shading, and Lighting:**
 
 **Languages:** C#
 
@@ -39,5 +53,6 @@ A custom engine that displays and manipulates objects in a virtual space. The en
 ![image](https://github.com/user-attachments/assets/635ef63d-5d55-41af-85ce-4b5cee5886c6)
 ![image](https://github.com/user-attachments/assets/12818008-2842-48a7-8452-1cbb8ea6e4ec)
 
-#**More Links:**
-**Portfolio Website:** https://sites.google.com/view/nathansshowcase/home
+# **Other Website Links:**
+**Portfolio Website:** 
+https://sites.google.com/view/nathansshowcase/home
