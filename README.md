@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio showcasing multiple projects created in multiple programming languages. (C++, C#, Java).
+A portfolio showcasing multiple projects created in multiple programming languages (C++, C#, Java). The portfolio showcases projects in Cloud Computing and Computer Graphics.
 
 # **Cloud Computing Sudoku Puzzle Solver**
 
