@@ -1,7 +1,7 @@
 # Portfolio
 A portfolio showcasing multiple projects created in multiple programming languages (Python, Java, & C++). The portfolio showcases projects in Machine Learning, Cloud Computing and Computer Graphics.
 
-# Steam Market Genre & Category Recommender:
+# Steam Market Genre & Category Recommender: (Machine Learning)
 
 **Programming Languages:**
 Python
@@ -15,11 +15,12 @@ A machine learning system that recommends Steam genre tags and categories for si
 **GitHub Repository Link:**
 https://github.com/funkeymonkey10/SteamTagEncoderRecommender
 
-<img width="910" height="701" alt="image" src="https://github.com/user-attachments/assets/4c177a77-97d9-469b-b8f6-18873aeea4cf" />
 <img width="1119" height="659" alt="Screenshot 2026-03-23 173148" src="https://github.com/user-attachments/assets/93833c14-67b8-4833-afca-3de4d8ced36c" />
 
+<img width="910" height="701" alt="image" src="https://github.com/user-attachments/assets/4c177a77-97d9-469b-b8f6-18873aeea4cf" />
 
-# Cloud Computing Sudoku Puzzle Solver
+
+# Cloud Computing Sudoku Puzzle Solver: (Cloud Computing)
 
 **Programming Languages:**
 Java
@@ -35,7 +36,7 @@ https://github.com/funkeymonkey10/CloudComputingSudokuSolver
 
 <img width="1400" height="1126" alt="image" src="https://github.com/user-attachments/assets/45a8203f-efaf-4a8c-9ee7-22e4fa4fe2b0" />
 
-# Custom 2D/3D Graphics Engine:
+# Custom 2D/3D Graphics Engine: (3D Graphics)
 
 **Programming Languages:** 
 C++, OpenGL Shading Language (GLSL)
