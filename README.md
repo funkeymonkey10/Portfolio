@@ -15,6 +15,10 @@ A machine learning system that recommends Steam genre tags and categories for si
 **GitHub Repository Link:**
 https://github.com/funkeymonkey10/SteamTagEncoderRecommender
 
+<img width="910" height="701" alt="image" src="https://github.com/user-attachments/assets/4c177a77-97d9-469b-b8f6-18873aeea4cf" />
+<img width="1119" height="659" alt="Screenshot 2026-03-23 173148" src="https://github.com/user-attachments/assets/93833c14-67b8-4833-afca-3de4d8ced36c" />
+
+
 # Cloud Computing Sudoku Puzzle Solver
 
 **Programming Languages:**
