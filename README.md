@@ -34,7 +34,7 @@ This project showcases a parallel computing approach to solving a large collecti
 **GitHub Repository Link:**
 https://github.com/funkeymonkey10/CloudComputingSudokuSolver
 
-<img width="1400" height="1126" alt="image" src="https://github.com/user-attachments/assets/45a8203f-efaf-4a8c-9ee7-22e4fa4fe2b0" />
+<img width="700" height="563" alt="image" src="https://github.com/user-attachments/assets/45a8203f-efaf-4a8c-9ee7-22e4fa4fe2b0" />
 
 # Custom 2D/3D Graphics Engine: (3D Graphics)
 
